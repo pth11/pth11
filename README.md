@@ -2,8 +2,8 @@
 
 
 ## 📫 How to reach me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yukichen2181/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/yukitran2181/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pth11/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thuhuongphan11/)
 ## Projects for sharing:
 
 <a href="https://github.com/thuhuongphan11/Python_RFM_analysis">
