@@ -11,3 +11,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuhuongphan11&repo=Python_RFM_analysis&theme=blue_navy" />
 </a>  
+<a href="https://github.com/thuhuongphan11/Python_Cohort_Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuhuongphan11&repo=Python_Cohort_Analysis&theme=blue_navy" />
+</a>  
+
