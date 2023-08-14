@@ -1,16 +1,5 @@
 # WELCOME TO MY PROFILE 👋👋👋
 
-Hi everyone! I'm Yuki, a person who loves telling stories beyond many complex numbers. 
-
-I have many years of experience working with different industries and business operations problems. In previous roles, I used my detailed analysis of customer, sales, and marketing data to create meaningful reports that helped stakeholders understand our customers and optimize sales operations.
-
-In line with my career aspirations, I am eager to challenge myself with data in a variety of fields, such as banking, retail, and logistics. I am also interested in exploring exercises related to prediction using machine learning.
-
-Moreover, I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-  💼 Any freelance work? do reach, please reach me through my email :).
-  
-  💬 Ask me about anything, I am happy to help.
 
 ## 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yukichen2181/)
