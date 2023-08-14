@@ -1,18 +1,23 @@
-### Hi there 👋
+# WELCOME TO MY PROFILE 👋👋👋
 
-<!--
-**thuhuongphan11/thuhuongphan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everyone! I'm Yuki, a person who loves telling stories beyond many complex numbers. 
 
-Here are some ideas to get you started:
+I have many years of experience working with different industries and business operations problems. In previous roles, I used my detailed analysis of customer, sales, and marketing data to create meaningful reports that helped stakeholders understand our customers and optimize sales operations.
 
-- 🔭 I’m currently working on ...
+In line with my career aspirations, I am eager to challenge myself with data in a variety of fields, such as banking, retail, and logistics. I am also interested in exploring exercises related to prediction using machine learning.
+
+Moreover, I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+  💼 Any freelance work? do reach, please reach me through my email :).
+  
+  💬 Ask me about anything, I am happy to help.
 
 ## 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yukichen2181/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/yukitran2181/)
 ## Projects for sharing:
 
-<a href="https://github.com/thuhuongphan11/Python_RFM_analysis/">
+<a href="https://github.com/thuhuongphan11/Python_RFM_analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuhuongphan11&repo=Python_RFM_analysis&theme=blue_navy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuhuongphan11&repo=Python_RFM_analysis&theme=rose" />
 </a>  
