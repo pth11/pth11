@@ -14,3 +14,15 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuhuongphan11&repo=Python_Cohort_Analysis&theme=gotham" />
 </a>  
+<a href="https://github.com/thuhuongphan11/SQL-BigQuery-PBI_Inventory_Controlling">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuhuongphan11&repo=SQL-BigQuery-PBI_Inventory_Controlling&theme=gotham" />
+</a>  
+<a href="https://github.com/thuhuongphan11/BigQuery_Ecommerce_project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuhuongphan11&repo=BigQuery_Ecommerce_project&theme=gotham" />
+</a>  
+<a href="https://github.com/thuhuongphan11/MachineLearning_4G_service_prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thuhuongphan11&repo=MachineLearning_4G_service_prediction&theme=gotham" />
+</a>  
