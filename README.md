@@ -1,9 +1,10 @@
 # WELCOME TO MY PORTFOLIO !
 
 
-## 📫 How to reach me:
+## Connect with me on:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pth11/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thuhuongphan11/)
+
+![image](https://github.com/thuhuongphan11/thuhuongphan11/assets/141643891/b53c7262-fb7d-454e-9c1b-3a5ee3c1aecc) thuhuongphan11@gmail.com
 
 ## Projects for sharing:
 <a href="https://github.com/thuhuongphan11/Python_RFM_analysis">
