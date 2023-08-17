@@ -1,5 +1,5 @@
-## A fresher Data Analyst who loves to play with code and figures to create amazing stories
-### SQL | Python | Power BI | Machine learning
+### **A fresher Data Analyst who loves to play with code and figures to create amazing stories**
+#### SQL | Python | Power BI | Machine learning
 
 ## Connect with me on:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pth11/)
