@@ -17,7 +17,7 @@
 </a>  
 <a href="https://github.com/pth11/SQL-PBI_Inventory_Controlling">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=SQL-BigQuery-PBI_Inventory_Controlling&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=SQL-PBI_Inventory_Controlling&theme=gotham" />
 </a>  
 <a href="https://github.com/pth11/SQL_Ecommerce_Exploring">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
