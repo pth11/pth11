@@ -15,6 +15,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=Python_Cohort_Analysis&theme=gotham" />
 </a>  
+<a href="https://github.com/pth11/BigQuery-PBI_Inventory_Controlling">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=BigQuery-PBI_Inventory_Controlling&theme=gotham" />
+</a>  
 <a href="https://github.com/pth11/SQL_Ecommerce_Exploring">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=SQL_Ecommerce_Exploring&theme=gotham" />
@@ -22,8 +26,4 @@
 <a href="https://github.com/pth11/ML_4G_service_prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=ML_4G_service_prediction&theme=gotham" />
-</a>  
-<a href="https://github.com/pth11/BigQuery-PBI_Inventory_Controlling">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=BigQuery-PBI_Inventory_Controlling&theme=gotham" />
 </a>  
