@@ -1,6 +1,7 @@
 # WELCOME TO MY PORTFOLIO !
 
 
+## SQL | Python | Power BI | Machine learning
 ## Connect with me on:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pth11/)
 
