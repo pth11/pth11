@@ -1,5 +1,4 @@
-# Data Analyst
-*A fresher Data Analyst who loves to play with code and figures to create amazing stories*
+*I love to play with code and figures to create amazing stories*
 
 [in/pth11](https://www.linkedin.com/in/pth11/) - thuhuongphan11@gmail.com
 
@@ -31,8 +30,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=ML_4G_service_prediction&theme=vue-dark" />
 </a>  
 
+
+### **Work experience**
+**Citek Technology Joint Stock Company** - Business Intelligence Consultant (_October 2023 - Present_)
+
+
 ### **Education & Certificates**
-**Ho Chi Minh city University of Technology** - Industrial Management (_November 2020_)
+**Ho Chi Minh city University of Technology** - Industrial Management (_September 2016 - November 2020_)
 
 GPA 8.07/10. Related coursework: Statistics in Business, Data Analytics, Product/Service Innovation
 
